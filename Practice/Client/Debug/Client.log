@@ -1,0 +1,7 @@
+﻿  AppClient.cpp
+  AppClientMain.cpp
+  Socket.cpp
+C:\Users\regis\Desktop\Practice1\Practice\Client\helpers\Socket.cpp(65,26): warning C4018: <: несоответствие типов со знаком и без знака
+  SocketClient.cpp
+  Создание кода...
+  Client.vcxproj -> C:\Users\regis\Desktop\Practice1\Practice\Debug\Client.exe
